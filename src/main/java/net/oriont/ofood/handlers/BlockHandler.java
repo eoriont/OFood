@@ -17,7 +17,7 @@ public class BlockHandler {
 
 
     public static void init(){
-        tutBlock = new BlockTestBlock(Material.ROCK, "test_block", CreativeTabs.BUILDING_BLOCKS, 5F, 15F, 3, "pickaxe");
+        tutBlock = new BlockTestBlock(Material.ROCK, "test_block", CreativeTabHandler.tabBlocks, 5F, 15F, 3, "pickaxe");
 
         ibTutBlock = (ItemBlock) new ItemBlock(tutBlock);
     }
