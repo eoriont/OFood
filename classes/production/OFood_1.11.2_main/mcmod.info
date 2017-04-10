@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ofood",
+  "name": "OFood",
+  "description": "oriont's food",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["oriont"],
+  "credits": "oriont for making the mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
