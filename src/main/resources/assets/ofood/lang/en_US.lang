@@ -1,0 +1,17 @@
+tile.test_block.name=Test Block
+
+item.test_item.name=Test Item
+item.test_pickaxe.name=Test Pickaxe
+item.test_axe.name=Test Axe
+item.test_shovel.name=Test Shovel
+item.test_hoe.name=Test Hoe
+item.test_sword.name=Test Sword
+item.test_banana.name=Test Banana
+item.test_helmet.name=Test Helmet
+item.test_chest.name=Test Chestplate
+item.test_leggings.name=Test Leggings
+item.test_boots.name=Test Boots
+
+itemGroup.test_blocks=Test Blocks
+itemGroup.test_combat=Test Combat
+itemGroup.test_tools=Test Tools
